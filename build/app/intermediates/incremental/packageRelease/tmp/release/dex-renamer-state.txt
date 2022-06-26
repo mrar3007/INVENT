@@ -1,0 +1,4 @@
+#Tue Jun 21 02:50:30 UZT 2022
+base.0=S\:\\apps\\untitled3\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
